@@ -29,6 +29,9 @@ this json file contain below format for the number plates and separate with char
 ## sqlite file :memo:
 complete database of the number plates from that's json file.
 
-![database](./screenshot.png)  
+|  27  |   آذربایجان غربی |   س  |  سلماس |
+| :--: | :-------: | :--: | :-----------: |
+|  27  |   آذربایجان غربی |   ص  |   نقده |
+|  27  | آذربایجان غربی |   ط  | میاندوآب |
 
 this files help you to work easily with number plates of the Iran vehicles and use that in every application and enjoy :wink:
